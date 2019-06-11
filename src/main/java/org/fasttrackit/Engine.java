@@ -7,5 +7,4 @@ public class Engine {
     int speed;
     String soundLevel;
     int power;
-
 }

@@ -14,5 +14,4 @@ public class Car {
     Engine engine;
     String interiorType;
     String model;
-
 }
